@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "417438031438",
+    "project_id": "webinar-app-cef7f",
+    "storage_bucket": "webinar-app-cef7f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417438031438:android:656d74969bcdb97f51ad1f",
+        "android_client_info": {
+          "package_name": "com.example.auth_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-y_5cdhNJmGm7MRWSUuJSV9UPqmXOkVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417438031438:android:05f5cdc1893dd33351ad1f",
+        "android_client_info": {
+          "package_name": "com.example.modernlogintute"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-y_5cdhNJmGm7MRWSUuJSV9UPqmXOkVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417438031438:android:5382c0b5daa96a0051ad1f",
+        "android_client_info": {
+          "package_name": "com.example.webinar_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-y_5cdhNJmGm7MRWSUuJSV9UPqmXOkVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
